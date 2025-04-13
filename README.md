@@ -5,7 +5,8 @@
 
 <details>
   <summary>Enunciado</summary>
-  Desenvolva uma aplicação Android que faça uso de CheckBox, e funcione como uma opção onde podemos marcar e desmarcar. Esta aplicação consiste em um simple sistema de compras onde possui cinco produtos:
+  
+Desenvolva uma aplicação Android que faça uso de `CheckBox`, e funcione como uma opção onde podemos marcar e desmarcar. Esta aplicação consiste em um simple sistema de compras onde possui cinco produtos:
   
   <ul>
     <li>Arroz 1 Kg (R$ 2,69)</li>
