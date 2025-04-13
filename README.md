@@ -1,5 +1,5 @@
 >[!NOTE]
->Projeto desenvolvido como parte das atividades da NI do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas.
+>Projeto desenvolvido como parte das atividades da NI da matéria de **Programação Mobile** do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 # Questão 1 - NI
 
